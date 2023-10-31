@@ -1,0 +1,127 @@
+/* HEADER */
+.container{
+    width: min(100%, 1440px);
+    margin: auto;
+    border: 10px ;
+    padding: 24px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.header_logo{
+ color: #000;
+font-family: Inter;
+font-size: 24.653px;
+font-style: normal;
+font-weight: 900;
+line-height: 26.414px; 
+letter-spacing: -0.44px;
+text-transform: uppercase;
+}
+.header_ul{
+    display: flex;
+    column-gap: 24px;
+}
+.header_li_a{
+color: #000;
+text-align: right;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.1px;
+}
+
+
+.icon1{
+    padding: 12px 24px;
+    
+    background-color: #000;
+    border-radius: 32px;
+ color: var(--Anti-Flash-White, #F3F3F3);
+text-align: center;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; /* 150% */
+letter-spacing: 0.1px;
+}
+/* SECTION */
+.box1{
+    padding: 64px 165px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.main_text1{
+    padding: 0 40px;
+color: #000;
+font-family: Inter;
+font-size: 56px;
+font-style: normal;
+font-weight: 900;
+line-height: 60px; /
+letter-spacing: -1px;
+}
+.text1{
+    padding: 0 40px;
+    color: #000;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; 
+}
+.card2{
+    padding: 40px;
+}
+.icon2{
+    padding: 12px;
+    background-color: #000;
+    border-radius: 32px;
+    color: var(--Anti-Flash-White, #F3F3F3);
+text-align: center;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; 
+letter-spacing: 0.1px;
+}
+.box2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000;
+    padding: 96px 150px ;
+
+
+}
+
+
+.main_text2{
+    padding: 0 40px;
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 900;
+line-height: 32px; 
+letter-spacing: -0.1px;
+}
+.text2{
+    padding: 0 40px;
+color: #FFF;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; 
+letter-spacing: 0.1px;
+}

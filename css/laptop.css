@@ -1,0 +1,26 @@
+@media(max-width:1024px){
+    
+.box1{
+    flex-direction: column;justify-content: center;
+    align-items: center;
+    text-align: center;
+    column-gap: 67px;
+    }    
+.box2{
+    flex-direction: column;
+
+}   
+.card5{
+    display: flex;
+    align-items: center;
+    text-align: center; justify-content: space-between;
+    column-gap: 67px;
+    
+}
+.main_text2{
+    width: 100%;
+    
+}
+}
+
+  
